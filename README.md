@@ -2,6 +2,10 @@
 <br>
 A Mosquito server compiled with TLS support and configurable self signed certificates generated at build time.
 <br>
+
+
+[![](https://images.microbadger.com/badges/version/krital/mosquitto_tls.svg)](https://microbadger.com/images/krital/mosquitto_tls "Get your own version badge on microbadger.com")
+
 The following is configured through environment variables with the following defaults:
 <br><br>
 MOSQUITTO_PORT="8883" <br>
